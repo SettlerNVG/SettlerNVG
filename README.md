@@ -35,18 +35,6 @@
     </td>
     <td valign="top" width="33%">
 
-### 🌐 Networking
-- TCP / UDP  
-- Client–Server architectures  
-- P2P architectures  
-- Connection lifecycle & state  
-- Streaming & real-time messaging  
-
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="33%">
 
 ### 🎮 Game & Rendering
 - DirectX 12  
@@ -65,14 +53,7 @@
     </td>
     <td valign="top" width="33%">
 
-### 🔐 Networking & Security
-- TLS / mTLS concepts  
-- Session-based communication  
-- Basic cryptographic primitives  
-- Secure channel design  
 
-    </td>
-  </tr>
 </table>
 
 

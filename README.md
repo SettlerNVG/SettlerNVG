@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Nikita
 
 [![GitLab](https://img.shields.io/badge/GitLab-SettlerNVG-black?logo=gitlab&logoColor=FC6D26)](https://gitlab.com/SettlerNVG)
-[![Itch.io](https://img.shields.io/badge/Itch.io-SettlerNVG-red?logo=itch.io&logoColor=white)](https://settlernvg.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-SettlerNVG-black?logo=itch.io&logoColor=red)](https://settlernvg.itch.io/)
 
 
 💻 **Software Developer** at **SGTU named after U.A Gagarin** (Saratov)

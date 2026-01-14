@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm Nikita
 
 [![GitLab](https://img.shields.io/badge/GitLab-SettlerNVG-black?logo=gitlab&logoColor=white)](https://gitlab.com/SettlerNVG)
+[![Diversion](https://img.shields.io/badge/Diversion-Profile-6e56cf)](ССЫЛКА_НА_DIVERSION)
+[![itch.io](https://img.shields.io/badge/itch.io-SettlerNVG-fa5c5c?logo=itch.io&logoColor=white)](ССЫЛКА_НА_ITCH)
 
 💻 **Software Developer**  
 🎮 **Game Rendering Development student** at **ITMO University** (Saint Petersburg)

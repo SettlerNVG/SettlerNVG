@@ -11,7 +11,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
 ### 🧑‍💻 Languages
 - Go  
@@ -19,8 +19,7 @@
 - C#  
 - JavaScript  
 
-    </td>
-    <td valign="top" width="50%">
+<br>
 
 ### ⚙️ Backend & Systems
 - gRPC  
@@ -31,10 +30,7 @@
 - Docker  
 
     </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
 ### 🎮 Game & Rendering
 - DirectX 12  
@@ -42,8 +38,7 @@
 - GLSL  
 - Real-time rendering fundamentals  
 
-    </td>
-    <td valign="top" width="50%">
+<br>
 
 ### 🛠 Tools & Environment
 - Git / GitLab  
@@ -51,8 +46,17 @@
 - Bash  
 
     </td>
+    <td valign="top" width="34%">
+
+### 🎓 Education
+
+- СГТУ им. Гагарина, Саратов  
+- ИТМО, Санкт-Петербург
+
+    </td>
   </tr>
 </table>
+
 
 ---
 

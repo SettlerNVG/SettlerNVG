@@ -9,9 +9,55 @@
 
 ---
 
-### 🧰 Tech Stack <table> <tr> <td valign="top" width="25%"> ### 🧑‍💻 Languages - Go - C++ - C# - JavaScript </td> <td valign="top" width="25%"> ### ⚙️ Backend & Systems - gRPC - REST - PostgreSQL - MSSQL - NoSQL - Docker </td> <td valign="top" width="25%"> ### 🎮 Game & Rendering - DirectX 12 - OpenGL - GLSL - Real-time rendering fundamentals </td> <td valign="top" width="25%"> ### 🛠 Tools & Environment - Git / GitLab - Linux - Bash </td> </table> ---
+### 🧰 Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🧑‍💻 Languages
+- Go  
+- C++  
+- C#  
+- JavaScript  
+
+    </td>
+    <td valign="top" width="50%">
+
+### ⚙️ Backend & Systems
+- gRPC  
+- REST  
+- PostgreSQL  
+- MSSQL  
+- NoSQL  
+- Docker  
+
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+
+### 🎮 Game & Rendering
+- DirectX 12  
+- OpenGL  
+- GLSL  
+- Real-time rendering fundamentals  
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🛠 Tools & Environment
+- Git / GitLab  
+- Linux  
+- Bash  
+
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 🚀 Interests
 

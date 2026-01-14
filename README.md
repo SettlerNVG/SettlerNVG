@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
 
 ### 🧑‍💻 Languages
 - Go  
@@ -22,7 +22,7 @@
 - JavaScript  
 
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
 
 ### ⚙️ Backend & Systems
 - gRPC  
@@ -33,7 +33,7 @@
 - Docker  
 
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
 
 
 ### 🎮 Game & Rendering
@@ -43,7 +43,7 @@
 - Real-time rendering fundamentals  
 
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
 
 ### 🛠 Tools & Environment
 - Git / GitLab  
@@ -51,7 +51,6 @@
 - Bash  
 
     </td>
-
 
 </table>
 

@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nikita
 
-🔗 **GitLab:** https://gitlab.com/SettlerNVG
+🔗[![GitLab](https://img.shields.io/badge/GitLab-SettlerNVG-orange?logo=gitlab&logoColor=white)](https://gitlab.com/SettlerNVG)
 
 💻 **Software Developer**  
 🎮 **Game Rendering Development student** at **ITMO University** (Saint Petersburg)

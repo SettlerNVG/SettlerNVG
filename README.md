@@ -14,44 +14,46 @@
 <table>
   <tr>
     <td valign="top" width="25%">
-
-### 🧑‍💻 Languages
-- Go  
-- C++  
-- C#  
-- JavaScript  
-
+      <b>🧑‍💻 Languages</b>
+      <ul>
+        <li>Go</li>
+        <li>C++</li>
+        <li>C#</li>
+        <li>JavaScript</li>
+      </ul>
     </td>
+
     <td valign="top" width="25%">
-
-### ⚙️ Backend & Systems
-- gRPC  
-- REST  
-- PostgreSQL  
-- MSSQL  
-- NoSQL  
-- Docker  
-
+      <b>⚙️ Backend & Systems</b>
+      <ul>
+        <li>gRPC</li>
+        <li>REST</li>
+        <li>PostgreSQL</li>
+        <li>MSSQL</li>
+        <li>NoSQL</li>
+        <li>Docker</li>
+      </ul>
     </td>
+
     <td valign="top" width="25%">
-
-
-### 🎮 Game & Rendering
-- DirectX 12  
-- OpenGL  
-- GLSL  
-- Real-time rendering fundamentals  
-
+      <b>🎮 Game & Rendering</b>
+      <ul>
+        <li>DirectX 12</li>
+        <li>OpenGL</li>
+        <li>GLSL</li>
+        <li>Real-time rendering</li>
+      </ul>
     </td>
+
     <td valign="top" width="25%">
-
-### 🛠 Tools & Environment
-- Git / GitLab  
-- Linux  
-- Bash  
-
+      <b>🛠 Tools & Environment</b>
+      <ul>
+        <li>Git / GitLab</li>
+        <li>Linux</li>
+        <li>Bash</li>
+      </ul>
     </td>
-
+  </tr>
 </table>
 
 

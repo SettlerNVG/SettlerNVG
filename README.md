@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Nikita
 
+🔗 **GitLab:** https://gitlab.com/SettlerNVG
+
 💻 **Software Developer**  
 🎮 **Game Rendering Development student** at **ITMO University** (Saint Petersburg)
 

@@ -7,8 +7,6 @@
 💻 **Software Developer**  
 🎮 **Game Rendering Development student** at **ITMO University** (Saint Petersburg)
 
----
-
 ### 🧰 Tech Stack
 
 <table width="100%">

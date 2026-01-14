@@ -7,9 +7,11 @@
 💻 **Software Developer**  
 🎮 **Game Rendering Development student** at **ITMO University** (Saint Petersburg)
 
+---
+
 ### 🧰 Tech Stack
 
-<table width="100%">
+<table>
   <tr>
     <td valign="top" width="33%">
 
@@ -19,7 +21,8 @@
 - C#  
 - JavaScript  
 
-<br>
+    </td>
+    <td valign="top" width="33%">
 
 ### ⚙️ Backend & Systems
 - gRPC  
@@ -32,13 +35,27 @@
     </td>
     <td valign="top" width="33%">
 
+### 🌐 Networking
+- TCP / UDP  
+- Client–Server architectures  
+- P2P architectures  
+- Connection lifecycle & state  
+- Streaming & real-time messaging  
+
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="33%">
+
 ### 🎮 Game & Rendering
 - DirectX 12  
 - OpenGL  
 - GLSL  
 - Real-time rendering fundamentals  
 
-<br>
+    </td>
+    <td valign="top" width="33%">
 
 ### 🛠 Tools & Environment
 - Git / GitLab  
@@ -46,12 +63,13 @@
 - Bash  
 
     </td>
-    <td valign="top" width="34%">
+    <td valign="top" width="33%">
 
-### 🎓 Education
-
-- СГТУ им. Гагарина, Саратов  
-- ИТМО, Санкт-Петербург
+### 🔐 Networking & Security
+- TLS / mTLS concepts  
+- Session-based communication  
+- Basic cryptographic primitives  
+- Secure channel design  
 
     </td>
   </tr>
@@ -59,7 +77,6 @@
 
 
 ---
-
 
 ### 🚀 Interests
 

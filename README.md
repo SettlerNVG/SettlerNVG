@@ -4,7 +4,7 @@
 
 
 
-💻 **Software Developer** at **SGTU named after U.A Gagarin** (Saratov) **
+💻 **Software Developer** at **SGTU named after U.A Gagarin** (Saratov)**
 🎮 **Game Rendering Development** at **ITMO University** (Saint Petersburg)
 
 ---

@@ -78,20 +78,3 @@
 </table>
 
 
----
-
-### 🚀 Interests
-
-- Systems & low-level programming  
-- Distributed systems and networking  
-- Secure and scalable architectures  
-- Real-time applications and rendering  
-
----
-
-### 🧠 About Me
-
-I enjoy building **pet-projects close to real-world production**,  
-with a strong focus on **clean architecture, performance, and security**.
-
-Always learning. Always experimenting.
